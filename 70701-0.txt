@@ -14,7 +14,6 @@ Title: Fine prints
 Author: Frederick Wedmore
 
 Release Date: May 5, 2023 [eBook #70701]
-Last Updated: July 6, 2023
 
 Language: English
 
@@ -254,7 +253,7 @@ often insisted--a mere craft or sleight-of-hand, to be practised from
 the wrist downwards. It is the expression of the man himself. It is,
 therefore, with great and new personalities that the study of an art,
 the contemplation of it--not the mere bungling amateur performance of
-it--brings you into contact. And there is no way of studying an art
+it;--brings you into contact. And there is no way of studying an art
 that is so complete and satisfactory as the collecting of examples of
 it.
 
@@ -1747,7 +1746,7 @@ that they have a beauty and perfection within their limited scheme,
 lacking to one or two of the more important, to which they serve
 humbly as page or outrider. The one lyric note of the _Rue des Mauvais
 Garçons_, for instance, is in its own way as complete a thing as is
-the magnificent epic of _Abside_ or _Morgue_--it is greater far than
+the magnificent epic of _Abside or Morgue_--it is greater far than
 the _Pompe Nôtre-Dame_, or, it may be, than the _Petit Pont_. The late
 Mr P. G. Hamerton--an admirable specialist in Etching, but a writer
 making no claim to the narrower speciality of minute acquaintance with
@@ -1923,7 +1922,7 @@ of these two little plates are worthy of respect, for these plates were
 never worked down to the wrecks and skeletons of some of the others;
 but, nevertheless, it is only in the earliest impressions that we can
 fully see the lovely lines and light and shade of the background in
-the _Pont-au-Change vers_ 1784--it must be had “before the great dark
+the _Pont-au-Change vers 1784_--it must be had “before the great dark
 rope”--and the sunlit house-fronts (Van der Heyden-like, almost) of the
 _Pont Neuf et la Samaritaine_.
 
@@ -1940,7 +1939,7 @@ with the antipodes. The Second State--with the title--is not scarce
 at all, and can never be costly. You may pay, perhaps, one or two
 pounds for it, and for the first, say, four or five. The _Entrée du
 Couvent des Capucins Français à Athènes_--a print devoted in reality
-to the Choragic Monument of Lysicrates--is the single and the very
+to the Choragic Monument of Lysierates--is the single and the very
 noble plate which a visit to Athens, when he was a sailor, inspired
 Méryon to produce. This rare plate was done for a book that is itself
 now rare--Count Léon de Laborde’s “Athènes au XV^{me}, XVI^{me}, et
